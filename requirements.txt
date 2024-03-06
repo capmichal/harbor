@@ -1,0 +1,7 @@
+﻿requests
+datetime
+argparse
+pytest
+pytest-cov
+black
+pylint
